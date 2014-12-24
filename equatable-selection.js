@@ -3,7 +3,7 @@
 
 (function (window, undefined) {
 
-  /*
+  /**
    * An object for observing and comparing current text selections.
    *
    * When instantiated, captures the current selection and computes a count
@@ -22,7 +22,7 @@
     }
   }
 
-  /*
+  /**
    * Return true if two EquatableSelection objects are equal, false otherwise
    */
   EquatableSelection.prototype.isEqual = function (other) {
