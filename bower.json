@@ -2,7 +2,7 @@
   "name": "equatable-selection",
   "main": "equatable-selection.js",
   "dependencies": {
-    "textistics": "0.*"
+    "selection-stats": "0.*"
   },
   "keywords": ["util", "selection", "text", "word", "character", "count"],
   "ignore": [".jshintrc", ".gitignore"]
