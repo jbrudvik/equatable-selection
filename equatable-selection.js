@@ -24,6 +24,8 @@
 
   /**
    * Return true if two EquatableSelection objects are equal, false otherwise
+   *
+   * @param {EquatableSelection} other
    */
   EquatableSelection.prototype.isEqual = function (other) {
     return other &&

@@ -2,7 +2,7 @@
 [![Bower version](http://img.shields.io/bower/v/equatable-selection.svg)](https://github.com/jbrudvik/equatable-selection)
 
   - [EquatableSelection()](#equatableselection)
-  - [EquatableSelection.isEqual()](#equatableselectionisequal)
+  - [EquatableSelection.isEqual()](#equatableselectionisequalotherequatableselection)
 
 ## EquatableSelection()
 
@@ -15,7 +15,7 @@
   
   Should be treated as immutable.
 
-## EquatableSelection.isEqual()
+## EquatableSelection.isEqual(other:EquatableSelection)
 
   Return true if two EquatableSelection objects are equal, false otherwise
 
