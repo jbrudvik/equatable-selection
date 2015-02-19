@@ -5,5 +5,5 @@
     "selection-stats": "0.*"
   },
   "keywords": ["util", "selection", "text", "word", "character", "count"],
-  "ignore": [".jshintrc", ".gitignore"]
+  "ignore": ["**/.*", "*.md", "generate-docs"]
 }
