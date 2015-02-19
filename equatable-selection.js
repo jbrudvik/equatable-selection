@@ -1,6 +1,4 @@
 
-/* global selectionStats:false */
-
 (function (window, undefined) {
 
   /**
